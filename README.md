@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mena Nabil Samir</h1>
-<h3 align="center">AI Engineer | Machine Learning & Deep Learning Specialist | Computer Vision & NLP Enthusiast</h3>
+<h3 align="center">AI Engineer | Machine Learning & Deep Learning Specialist | Computer Vision & NLP Enthusiast | Freelancer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=menanabil19&label=Profile%20views&color=0e75b6&style=flat" alt="menanabil19" />
@@ -15,7 +15,7 @@ Recognized as a **Kaggle Master**, consistently delivering high-performing model
 ---
 
 ### 📚 Education:
-- 🎓 4th Year BSc Student, Faculty of Computer Science, Department of Artificial Intelligence  
+- Faculty of Computer Science, Department of Artificial Intelligence  
   October 6 University (2021 – 2025)
 
 ---
@@ -29,6 +29,7 @@ Recognized as a **Kaggle Master**, consistently delivering high-performing model
 ---
 
 ### 💼 Internship Experience:
+
 - **Microsoft DEPI – Machine Learning Engineer Intern**  
   Developed GANs, NLP attention models, ML pipelines using MLflow, Hugging Face, Azure AI Fundamentals.
 
@@ -50,7 +51,7 @@ Recognized as a **Kaggle Master**, consistently delivering high-performing model
 ### 🔬 Currently Learning:
 - 🔁 Retrieval-Augmented Generation (RAG)
 - 👁️‍🗨️ Advanced Computer Vision & Image Segmentation
-- 🤗 Hugging Face Transformers (Summarization, Text QA)
+  
 
 ---
 
