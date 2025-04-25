@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mena Nabil Samir</h1>
-<h3 align="center">AI Engineer | Machine Learning & Computer Vision | Freelancer Specialist</h3>
+<h3 align="center">AI Engineer | Machine & Deep  Learning Specialist & Computer Vision Student | Freelancer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=menanabil19&label=Profile%20views&color=0e75b6&style=flat" alt="menanabil19" />
