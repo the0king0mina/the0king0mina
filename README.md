@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#FF5733">Mena Nabil Samir</span></h1>
-<h3 align="center">AI Engineer | Machine & Deep Learning | NLP & Computer Vision | AI Agent & Automation Specialist</h3>
+<h3 align="center">AI Engineer | ML & DL Specialist | NLP & Computer Vision | AI Agents & Automation Expert</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=menanabil19&label=Profile%20views&color=0e75b6&style=flat" alt="menanabil19" />
@@ -9,41 +9,46 @@
 
 ## 🌟 About Me
 <p align="center">
-<img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="200" />
+<img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="180" />
 </p>
 
 <p>
-Hi! I'm <b>Mena Nabil Samir</b>, a passionate <span style="color:#FF5733">AI Engineer</span> specialized in building 
-<strong>Machine Learning, Deep Learning, NLP, Computer Vision</strong> solutions.  
-I also design <strong>AI Agents & Automation workflows using n8n</strong> to solve real-world problems efficiently.  
-I love creating intelligent systems that make life easier and smarter! 🤖
+I'm a passionate <strong>AI Engineer</strong> specialized in building intelligent solutions using <strong>Machine Learning, Deep Learning, NLP, and Computer Vision</strong>.  
+I also create <strong>AI Agents & Automation workflows using n8n</strong> to optimize real-world processes.  
+My goal is to transform ideas into smart, efficient AI systems that solve complex challenges. 🤖
 </p>
 
 ---
 
-## 💻 My Super Skills
+## 💻 My Professional Skills
 
+### 🖥 Programming & Scripting
 <p align="center">
-<!-- Programming -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-<!-- AI/ML -->
+### 🤖 AI/ML Frameworks & Libraries
+<p align="center">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/HuggingFace-F99000?style=for-the-badge&logo=huggingface&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
 
-<!-- Tools -->
+### ⚙ Tools, Cloud & Automation
+<p align="center">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-FF3C00?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
 
-<!-- Concepts -->
+### 🧠 AI Concepts & Expertise
+<p align="center">
 <img src="https://img.shields.io/badge/CNNs-2C9AB7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RNNs-F1523D?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Transformers-FF6F61?style=for-the-badge" />
@@ -65,7 +70,7 @@ I love creating intelligent systems that make life easier and smarter! 🤖
 - Advanced **Computer Vision & Image Segmentation**  
 - **Hugging Face Transformers** (Summarization, QA, Generation)  
 - **AI Agents & Automation Pipelines** using **n8n**  
-- Deploying ML/AI solutions with Cloud, Streamlit & Flask  
+- Deploying ML/AI solutions with **Cloud, Streamlit, Flask**  
 
 ---
 
@@ -79,9 +84,6 @@ I love creating intelligent systems that make life easier and smarter! 🤖
   </a>
   <a href="https://github.com/menanabil19">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/minanabil11111212">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
 
