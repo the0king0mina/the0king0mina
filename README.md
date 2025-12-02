@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Mena Nabil Samir</h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#FF5733">Mena Nabil Samir</span></h1>
 <h3 align="center">AI Engineer | Machine & Deep Learning | NLP & Computer Vision | AI Agent & Automation Specialist</h3>
 
 <p align="center">
@@ -7,62 +7,65 @@
 
 ---
 
-## 🧠 About Me
+## 🌟 About Me
+<p align="center">
+<img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="200" />
+</p>
+
 <p>
-I'm a passionate AI Engineer with expertise in building **Machine Learning, Deep Learning, NLP, and Computer Vision solutions**.  
-I specialize in **AI Agents & Automation using n8n**, enabling smart workflows and intelligent systems.  
-I enjoy solving **real-world problems** and implementing **cutting-edge AI technologies** into practical applications.
+Hi! I'm <b>Mena Nabil Samir</b>, a passionate <span style="color:#FF5733">AI Engineer</span> specialized in building 
+<strong>Machine Learning, Deep Learning, NLP, Computer Vision</strong> solutions.  
+I also design <strong>AI Agents & Automation workflows using n8n</strong> to solve real-world problems efficiently.  
+I love creating intelligent systems that make life easier and smarter! 🤖
 </p>
 
 ---
 
-## 💻 My Skills
+## 💻 My Super Skills
 
 <p align="center">
-  <!-- Programming -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=MySQL&logoColor=white" />
-</p>
+<!-- Programming -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<p align="center">
-  <!-- AI/ML -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-F99000?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
+<!-- AI/ML -->
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-F99000?style=for-the-badge&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 
-<p align="center">
-  <!-- Tools & Cloud -->
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FF3C00?style=for-the-badge&logo=n8n&logoColor=white" />
-</p>
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-FF3C00?style=for-the-badge&logo=n8n&logoColor=white" />
 
-<p align="center">
-  <!-- Concepts -->
-  <img src="https://img.shields.io/badge/CNNs-2C9AB7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RNNs-F1523D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Transformers-FF6F61?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GANs-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AutoML-00BFA5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-FFB600?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ComputerVision-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI Agents & Automation-FF4500?style=for-the-badge" />
+<!-- Concepts -->
+<img src="https://img.shields.io/badge/CNNs-2C9AB7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RNNs-F1523D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Transformers-FF6F61?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GANs-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AutoML-00BFA5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-FFB600?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ComputerVision-4B0082?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI Agents & Automation-FF4500?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 Current Focus
+<p align="center">
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="180" />
+</p>
+
 - Building **RAG-based AI Systems**  
 - Advanced **Computer Vision & Image Segmentation**  
 - **Hugging Face Transformers** (Summarization, QA, Generation)  
 - **AI Agents & Automation Pipelines** using **n8n**  
-- Deploying ML/AI solutions with Cloud & Streamlit/Flask  
+- Deploying ML/AI solutions with Cloud, Streamlit & Flask  
 
 ---
 
