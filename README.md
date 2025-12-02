@@ -10,7 +10,7 @@
 ## 🌟 About Me
 <p>
 I am a professional <strong>AI Engineer</strong> passionate about building intelligent systems using <strong>Machine Learning, Deep Learning, NLP, Computer Vision</strong>, and <strong>AI Agents & Automation</strong>.  
-I specialize in creating solutions that are efficient, scalable, and innovative for real-world applications. 🤖
+I create solutions that are efficient, scalable, and innovative for real-world applications. 🤖
 </p>
 
 ---
@@ -67,27 +67,27 @@ I specialize in creating solutions that are efficient, scalable, and innovative 
 
 ### Deep Learning & Neural Networks
 <p align="center">
-<img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="220" />
+<img src="https://media.giphy.com/media/3o6ZsX4exz1R2k0rYc/giphy.gif" width="220" />
 </p>
 
 ### NLP & Transformers
 <p align="center">
-<img src="https://media.giphy.com/media/xT0GqF9aG8eY0e6m3q/giphy.gif" width="220" />
+<img src="https://media.giphy.com/media/xT0BKqhdlKCxCNsVTq/giphy.gif" width="220" />
 </p>
 
 ### Computer Vision & Object Detection
 <p align="center">
-<img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="220" />
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="220" />
 </p>
 
 ### AI Agents & Automation (n8n)
 <p align="center">
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="220" />
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="220" />
 </p>
 
 ### Cloud & Deployment
 <p align="center">
-<img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="220" />
+<img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="220" />
 </p>
 
 ---
