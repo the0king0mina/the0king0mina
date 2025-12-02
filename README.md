@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mena Nabil Samir</h1>
-<h3 align="center">AI Engineer | Machine & Deep  Learning Specialist & Computer Vision Student | Freelancer </h3>
+<h3 align="center">AI Engineer | Machine & Deep Learning | NLP & Computer Vision | AI Agent & Automation Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=menanabil19&label=Profile%20views&color=0e75b6&style=flat" alt="menanabil19" />
@@ -8,40 +8,65 @@
 ---
 
 ## 🧠 About Me
-- 🎓 AI Engineering Student | October 6 University (2021 – 2025)
-- 🎯 Passionate about solving real-world problems using AI.
-- 🤖 Specialized in Machine Learning, Deep Learning, Computer Vision, and NLP.
-- 🏆 Kaggle Master | Microsoft DEPI Certified | Hugging Face Enthusiast.
+<p>
+I'm a passionate AI Engineer with expertise in building **Machine Learning, Deep Learning, NLP, and Computer Vision solutions**.  
+I specialize in **AI Agents & Automation using n8n**, enabling smart workflows and intelligent systems.  
+I enjoy solving **real-world problems** and implementing **cutting-edge AI technologies** into practical applications.
+</p>
 
 ---
 
-## 💻 Skills
-- **Languages:** Python, C++, SQL
-- **AI/ML Frameworks:** TensorFlow, Scikit-learn, Hugging Face, OpenCV
-- **Tools:** Flask, Streamlit, Azure ML, Google Colab
-- **Concepts:** CNNs, RNNs, Transformers,Gans, AutoML, NLP
+## 💻 My Skills
+
+<p align="center">
+  <!-- Programming -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=MySQL&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- AI/ML -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-F99000?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Tools & Cloud -->
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF3C00?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Concepts -->
+  <img src="https://img.shields.io/badge/CNNs-2C9AB7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RNNs-F1523D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transformers-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GANs-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AutoML-00BFA5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-FFB600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ComputerVision-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI Agents & Automation-FF4500?style=for-the-badge" />
+</p>
 
 ---
 
-## 🚀 Current Focus in Advanced AI Topics
-- 🔥 Building RAG-based AI Systems
-- 👁️‍🗨️ Advanced Computer Vision & Image Segmentation
-- 🤗 Hugging Face Transformers (Summarization, QA)
+## 🚀 Current Focus
+- Building **RAG-based AI Systems**  
+- Advanced **Computer Vision & Image Segmentation**  
+- **Hugging Face Transformers** (Summarization, QA, Generation)  
+- **AI Agents & Automation Pipelines** using **n8n**  
+- Deploying ML/AI solutions with Cloud & Streamlit/Flask  
 
 ---
-
-## 📚 Education & Certifications
-- 🎓 BSc in Artificial Intelligence (Expected 2025)
-- 🎓 AI Diploma @ Instant Software Solution (2024–2025)
-- 🤖 Microsoft ML Engineer Intern (DEPI)
-- 🧠 AI Trainee @ ITI
-- 🚀 Intensive AI/ML Training Program (Ministry of Youth)
-
----
-
 
 ## 🌐 Connect With Me
-
 <p align="center">
   <a href="mailto:mnabilsamir.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -49,7 +74,7 @@
   <a href="https://www.linkedin.com/in/mina-nabil-a4b3b3268">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/the0king0mina">
+  <a href="https://github.com/menanabil19">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/minanabil11111212">
@@ -60,5 +85,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=menanabil19&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=menanabil19&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menanabil19&hide=html,css&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
