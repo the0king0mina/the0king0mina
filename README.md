@@ -8,19 +8,21 @@
 ---
 
 ## 🌟 About Me
-<p align="center">
-<img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="220" />
-</p>
-
 <p>
-I'm a professional <strong>AI Engineer</strong> specialized in building intelligent solutions using <strong>Machine Learning, Deep Learning, NLP, and Computer Vision</strong>.  
-I also design <strong>AI Agents & Automation workflows using n8n</strong> to optimize real-world processes.  
-I love transforming complex problems into smart AI solutions that are **efficient, scalable, and innovative**. 🤖
+I am a professional <strong>AI Engineer</strong> passionate about building intelligent systems using <strong>Machine Learning, Deep Learning, NLP, Computer Vision</strong>, and <strong>AI Agents & Automation</strong>.  
+I specialize in creating solutions that are efficient, scalable, and innovative for real-world applications. 🤖
 </p>
 
 ---
 
-## 💻 My Professional Skills
+## 💼 Experience
+- **AI Engineer & Trainer** – Trained 35 students in AI internships; next cycle: 250+ students.  
+- **Freelancer** – Built multiple AI/ML projects for clients, focusing on automation and smart solutions.  
+- **AI Internships & Trainings** – Microsoft DEPI, ITI, Intensive AI/ML programs (Ministry of Youth).  
+
+---
+
+## 💻 Skills
 
 ### 🖥 Programming & Scripting
 <p align="center">
@@ -61,16 +63,32 @@ I love transforming complex problems into smart AI solutions that are **efficien
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Focus Areas
+
+### Deep Learning & Neural Networks
+<p align="center">
+<img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="220" />
+</p>
+
+### NLP & Transformers
+<p align="center">
+<img src="https://media.giphy.com/media/xT0GqF9aG8eY0e6m3q/giphy.gif" width="220" />
+</p>
+
+### Computer Vision & Object Detection
+<p align="center">
+<img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="220" />
+</p>
+
+### AI Agents & Automation (n8n)
 <p align="center">
 <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="220" />
 </p>
 
-- Building **RAG-based AI Systems**  
-- Advanced **Computer Vision & Image Segmentation**  
-- **Hugging Face Transformers** (Summarization, QA, Generation)  
-- **AI Agents & Automation Pipelines** using **n8n**  
-- Deploying ML/AI solutions with **Cloud, Streamlit, Flask**  
+### Cloud & Deployment
+<p align="center">
+<img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="220" />
+</p>
 
 ---
 
@@ -84,6 +102,9 @@ I love transforming complex problems into smart AI solutions that are **efficien
   </a>
   <a href="https://github.com/menanabil19">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/minanabil11111212">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
 
