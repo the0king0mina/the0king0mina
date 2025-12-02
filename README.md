@@ -5,6 +5,15 @@
   <img src="https://komarev.com/ghpvc/?username=menanabil19&label=Profile%20views&color=0e75b6&style=flat" alt="menanabil19" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=menanabil19&show_icons=true&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menanabil19&layout=compact&theme=dark&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=menanabil19&theme=dark&hide_border=true" height="165" />
+</p>
+
 ---
 
 ## 🌟 About Me
@@ -13,12 +22,7 @@ I focus on creating scalable, efficient, and innovative solutions for real-world
 
 ---
 
-## 💼 Experience
-- **AI Engineer & Trainer** – Trained 35 students in AI internships; next cycle: 250+ students.  
-- **Freelancer** – Developed multiple AI/ML solutions for clients with focus on automation and smart systems.  
-- **AI Internships & Trainings** – Microsoft DEPI, ITI, Intensive AI/ML programs (Ministry of Youth).  
 
----
 
 ## 🚀 Focus Areas
 - **Deep Learning & Neural Networks** – Designing and training efficient neural networks for real-world applications.  
@@ -31,16 +35,17 @@ I focus on creating scalable, efficient, and innovative solutions for real-world
 
 ## 💻 Skills & Tools
 
-### Programming & Scripting
+### 🔧 Programming & Development
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Seaborn-1C1C1C?style=for-the-badge&logoColor=white" />
 </p>
 
-### AI/ML Frameworks & Libraries
+### 🤖 AI/ML & Deep Learning
 <p align="center">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -49,7 +54,7 @@ I focus on creating scalable, efficient, and innovative solutions for real-world
 <img src="https://img.shields.io/badge/HuggingFace-F99000?style=for-the-badge&logo=huggingface&logoColor=white" />
 </p>
 
-### Cloud, Automation & Tools
+### ☁️ Deployment & Automation
 <p align="center">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
@@ -60,8 +65,13 @@ I focus on creating scalable, efficient, and innovative solutions for real-world
 
 ---
 
-## 👨‍💻 Projects
-All of my projects are available at: [Kaggle Projects](https://www.kaggle.com/abdallahwagih)
+## 📂 Featured Projects
+All of my projects are available at: [Kaggle Projects](https://www.kaggle.com/minanabil11111212)
+
+**🔍 Currently Working On:**
+- Advanced AI Agent automation systems with n8n
+- Real-time computer vision applications
+- Transformer-based NLP solutions for Arabic language
 
 ---
 
@@ -91,5 +101,13 @@ All of my projects are available at: [Kaggle Projects](https://www.kaggle.com/ab
 
 ---
 
-## 🛠 Languages & Tools
-Python | C++ | SQL | Pandas | NumPy | Seaborn | OpenCV | PyTorch | TensorFlow | Scikit-learn | Flask | Streamlit | Azure ML | Google Colab | n8n
+## 🛠️ Technical Stack
+**Languages:** Python | C++ | SQL  
+**Data Science:** Pandas | NumPy | Seaborn | Matplotlib  
+**AI/ML:** TensorFlow | PyTorch | Scikit-learn | OpenCV | HuggingFace  
+**Development:** Flask | Streamlit | Git | Docker  
+**Cloud & Automation:** Azure | Google Colab | n8n | API Integration  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=menanabil19&theme=github-dark&hide_border=true" />
+</p>
