@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#FF5733">Mena Nabil Samir</span></h1>
-<h3 align="center">AI Engineer | ML & DL Specialist | NLP & Computer Vision | AI Agents & Automation Expert</h3>
+<h3 align="center">AI Engineer | Machine & Deep Learning | NLP & Computer Vision | AI Agents & Automation Expert</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=menanabil19&label=Profile%20views&color=0e75b6&style=flat" alt="menanabil19" />
@@ -9,13 +9,13 @@
 
 ## 🌟 About Me
 <p align="center">
-<img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="180" />
+<img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="220" />
 </p>
 
 <p>
-I'm a passionate <strong>AI Engineer</strong> specialized in building intelligent solutions using <strong>Machine Learning, Deep Learning, NLP, and Computer Vision</strong>.  
-I also create <strong>AI Agents & Automation workflows using n8n</strong> to optimize real-world processes.  
-My goal is to transform ideas into smart, efficient AI systems that solve complex challenges. 🤖
+I'm a professional <strong>AI Engineer</strong> specialized in building intelligent solutions using <strong>Machine Learning, Deep Learning, NLP, and Computer Vision</strong>.  
+I also design <strong>AI Agents & Automation workflows using n8n</strong> to optimize real-world processes.  
+I love transforming complex problems into smart AI solutions that are **efficient, scalable, and innovative**. 🤖
 </p>
 
 ---
@@ -63,7 +63,7 @@ My goal is to transform ideas into smart, efficient AI systems that solve comple
 
 ## 🚀 Current Focus
 <p align="center">
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="180" />
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="220" />
 </p>
 
 - Building **RAG-based AI Systems**  
