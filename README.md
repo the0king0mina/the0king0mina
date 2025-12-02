@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#FF5733">Mena Nabil Samir</span></h1>
-<h3 align="center">AI Engineer | Machine & Deep Learning | NLP & Computer Vision | AI Agents & Automation Expert</h3>
+<h3 align="center">AI Engineer | Machine & Deep Learning | NLP & Computer Vision | AI Agents & Automation Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=menanabil19&label=Profile%20views&color=0e75b6&style=flat" alt="menanabil19" />
@@ -8,39 +8,48 @@
 ---
 
 ## 🌟 About Me
-<p>
-I am a professional <strong>AI Engineer</strong> passionate about building intelligent systems using <strong>Machine Learning, Deep Learning, NLP, Computer Vision</strong>, and <strong>AI Agents & Automation</strong>.  
-I create solutions that are efficient, scalable, and innovative for real-world applications. 🤖
-</p>
+I am a professional **AI Engineer** passionate about designing and building intelligent systems using **Machine Learning, Deep Learning, NLP, Computer Vision**, and **AI Agents & Automation**.  
+I focus on creating scalable, efficient, and innovative solutions for real-world problems.
 
 ---
 
 ## 💼 Experience
 - **AI Engineer & Trainer** – Trained 35 students in AI internships; next cycle: 250+ students.  
-- **Freelancer** – Built multiple AI/ML projects for clients, focusing on automation and smart solutions.  
+- **Freelancer** – Developed multiple AI/ML solutions for clients with focus on automation and smart systems.  
 - **AI Internships & Trainings** – Microsoft DEPI, ITI, Intensive AI/ML programs (Ministry of Youth).  
 
 ---
 
-## 💻 Skills
+## 🚀 Focus Areas
+- **Deep Learning & Neural Networks** – Designing and training efficient neural networks for real-world applications.  
+- **NLP & Transformers** – Implementing state-of-the-art NLP solutions using Hugging Face and custom pipelines.  
+- **Computer Vision & Object Detection** – Building advanced image and video recognition models with OpenCV and Deep Learning.  
+- **AI Agents & Automation (n8n)** – Developing automated workflows and intelligent AI agents for real-world processes.  
+- **Cloud & Deployment** – Deploying ML/AI solutions on Azure, Google Cloud, and other platforms efficiently.  
 
-### 🖥 Programming & Scripting
+---
+
+## 💻 Skills & Tools
+
+### Programming & Scripting
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-1C1C1C?style=for-the-badge&logoColor=white" />
 </p>
 
-### 🤖 AI/ML Frameworks & Libraries
+### AI/ML Frameworks & Libraries
 <p align="center">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-F99000?style=for-the-badge&logo=huggingface&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-F99000?style=for-the-badge&logo=huggingface&logoColor=white" />
 </p>
 
-### ⚙ Tools, Cloud & Automation
+### Cloud, Automation & Tools
 <p align="center">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
@@ -49,46 +58,10 @@ I create solutions that are efficient, scalable, and innovative for real-world a
 <img src="https://img.shields.io/badge/n8n-FF3C00?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
-### 🧠 AI Concepts & Expertise
-<p align="center">
-<img src="https://img.shields.io/badge/CNNs-2C9AB7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RNNs-F1523D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Transformers-FF6F61?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GANs-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AutoML-00BFA5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NLP-FFB600?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ComputerVision-4B0082?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI Agents & Automation-FF4500?style=for-the-badge" />
-</p>
-
 ---
 
-## 🚀 Focus Areas
-
-### Deep Learning & Neural Networks
-<p align="center">
-<img src="https://media.giphy.com/media/3o6ZsX4exz1R2k0rYc/giphy.gif" width="220" />
-</p>
-
-### NLP & Transformers
-<p align="center">
-<img src="https://media.giphy.com/media/xT0BKqhdlKCxCNsVTq/giphy.gif" width="220" />
-</p>
-
-### Computer Vision & Object Detection
-<p align="center">
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="220" />
-</p>
-
-### AI Agents & Automation (n8n)
-<p align="center">
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="220" />
-</p>
-
-### Cloud & Deployment
-<p align="center">
-<img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="220" />
-</p>
+## 👨‍💻 Projects
+All of my projects are available at: [Kaggle Projects](https://www.kaggle.com/abdallahwagih)
 
 ---
 
@@ -106,14 +79,17 @@ I create solutions that are efficient, scalable, and innovative for real-world a
   <a href="https://www.kaggle.com/minanabil11111212">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
+  <a href="https://web.facebook.com/mena.nabil.596164">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mina._._nabil/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
+
+📫 How to reach me: **mnabilsamir.dev@gmail.com**
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=menanabil19&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menanabil19&hide=html,css&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+## 🛠 Languages & Tools
+Python | C++ | SQL | Pandas | NumPy | Seaborn | OpenCV | PyTorch | TensorFlow | Scikit-learn | Flask | Streamlit | Azure ML | Google Colab | n8n
