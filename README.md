@@ -2,18 +2,18 @@
 <h3 align="center">AI Engineer • LLMs, RAG, Multimodal AI • Kaggle Grandmaster</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=the0king0mina&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=the0king0mina&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 🌟 About Me
-AI Engineer building **production-ready AI systems** with strong expertise in **Machine Learning, Deep Learning, NLP, Computer Vision, LLMs, RAG, and AI Automation**.  
-Kaggle Grandmaster (#18) mentoring students to build **real-world AI projects**.
+AI Engineer building **real-world AI systems** in **Machine Learning, Deep Learning, NLP, CV, LLMs, RAG, and AI Automation**.  
+Kaggle Grandmaster (#18) mentoring students to create **AI projects from scratch**.  
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> 
@@ -35,8 +35,8 @@ Kaggle Grandmaster (#18) mentoring students to build **real-world AI projects**.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=the0king0mina&show_icons=true&theme=dark&hide_border=true" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the0king0mina&layout=compact&theme=dark&hide_border=true" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api?username=the0king0mina&show_icons=true&theme=dark&hide_border=true" height="120"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the0king0mina&layout=compact&theme=dark&hide_border=true" height="120"/>
 </p>
 
 ---
@@ -48,4 +48,5 @@ Kaggle Grandmaster (#18) mentoring students to build **real-world AI projects**.
 <a href="https://github.com/the0king0mina"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.kaggle.com/minanabil11111212"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
+
 
