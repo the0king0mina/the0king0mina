@@ -14,93 +14,106 @@
   <a href="https://www.kaggle.com/minanabil11111212">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/mina._._nabil/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </p>
 
 ---
 
 ## 🌟 About Me
-I’m a **production-ready AI Engineer** with strong expertise in **Machine Learning, Deep Learning, NLP, Computer Vision, LLMs, RAG, and Multimodal AI systems**.  
-I deliver **real-world AI solutions**, mentor students in AI, and actively participate in **Kaggle competitions** (Rank #18).  
+AI Engineer with **production-ready skills in ML, DL, NLP, CV, LLMs, RAG, and Multimodal AI systems**.  
+I **deliver real-world AI solutions**, mentor students, and compete professionally on **Kaggle** (Rank #18).  
 
-- ⚡ Specialize in AI Agents, automated pipelines using **n8n**, and end-to-end AI systems.  
-- 🚀 Build solutions for **medical, industrial, and business use-cases**, including **OCR → LLM decision pipelines**.  
-- 🎓 BSc in **Artificial Intelligence**, October 6 University (Graduated June 2025, Very Good).
+- ⚡ Expert in **AI Agents, n8n pipelines, and end-to-end AI systems**  
+- 🚀 Build solutions in **OCR, LLM workflows, Computer Vision, and AI automation**  
+- 🎓 BSc in **Artificial Intelligence**, October 6 University (Graduated June 2025)
 
 ---
 
-## 🚀 Core Skills & Tech Stack
+## 💻 Tech Skills
 
 ### 🔹 Programming & Data
-Python, C++, SQL, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
-### 🤖 AI & Machine Learning
-TensorFlow, PyTorch, Scikit-learn, Hugging Face, Transformers, BERT, mT5  
+### 🤖 Machine Learning & AI
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-F99000?style=for-the-badge&logo=huggingface&logoColor=white" />
+</p>
 
 ### 🖼 Computer Vision
-CNNs, YOLO (v8/v12), Object Detection, Hand Landmark Detection, Medical Imaging, Drone Vision  
+<p align="left">
+  <img src="https://img.shields.io/badge/YOLOv8-FF5733?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Object Detection-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Medical Imaging-2196F3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Drone Vision-9C27B0?style=for-the-badge" />
+</p>
 
-### 🧠 LLMs & Multimodal AI
-LangChain, RAG Systems, OpenAI APIs, OCR Integration, Multilingual AI, Structured AI Outputs  
+### 🧠 LLMs & RAG
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-7B61FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OCR-FF9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multimodal AI-03A9F4?style=for-the-badge" />
+</p>
 
-### ⚙️ AI Automation & Workflows
-n8n, AI Agents, Workflow Orchestration, End-to-End AI Pipelines, Prompt Engineering  
-
-### ☁️ Deployment & Cloud
-Flask, Streamlit, Docker, Azure, Google Colab  
-
----
-
-## 🏆 Achievements & Highlights
-- **Kaggle Notebook Grandmaster (Rank #18)**  
-- Real-world **freelance AI projects** across multiple industries  
-- Mentor & AI Trainer @ **AI TroniX**  
-
----
-
-## 🌐 Interactive Stats
-
-[![Mena's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the0king0mina&theme=dracula)](https://github.com/the0king0mina)  
-[![Mena's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the0king0mina&theme=dracula)](https://github.com/the0king0mina)  
-[![Mena's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the0king0mina&theme=dracula)](https://github.com/the0king0mina)  
-
-> ✅ **All badges fully functional** — updated in real-time and interactive.
+### ⚙️ Deployment & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
 ---
 
-## 🌟 Featured Projects (Pinned Repos)
-| Project | Type | Highlights |
-|---------|------|------------|
-| Intelligent-Document-Question-Answering-System | LLM + RAG | LangChain, OpenAI, QA system |
-| Multimodal-Grocery-Product-Health-Fitness-Analyzer | Multimodal AI | OCR + LLM, structured outputs |
-| Drone-Object-Detection-YOLO-V12 | Computer Vision | Real-time detection & optimization |
-| Apple-Sales-RAG-Chat-Bot-Using-n8n | AI Agent / Automation | Workflow orchestration & chatbot |
-| Deep-Learning-Based-Fingerprint-Liveness-Classification | Real Client | Security & biometric AI |
+## 📊 GitHub Stats & Languages
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=the0king0mina&show_icons=true&count_private=true&theme=dracula" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the0king0mina&layout=compact&theme=dracula" />
+</p>
 
 ---
 
-## 💡 Fun Badges & Stats
+## ⚡ Skills Progress
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-F99000?style=for-the-badge&logo=huggingface&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF3C00?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+**Python**  
+![Python](https://progress-bar.dev/95/?title=Python)  
 
----
+**Machine Learning & AI**  
+![ML](https://progress-bar.dev/90/?title=ML+%26+AI)  
 
-## 📫 Connect With Me
-- **Email:** mnabilsamir.dev@gmail.com  
-- **LinkedIn:** [mina-nabil](https://www.linkedin.com/in/mina-nabil-a4b3b3268)  
-- **GitHub:** [the0king0mina](https://github.com/the0king0mina)  
-- **Kaggle:** [minanabil11111212](https://www.kaggle.com/minanabil11111212)  
-- **Instagram:** [mina._._nabil](https://www.instagram.com/mina._._nabil/)
+**Deep Learning & CV**  
+![DL](https://progress-bar.dev/85/?title=DL+%26+CV)  
+
+**LLMs & RAG Systems**  
+![LLM](https://progress-bar.dev/88/?title=LLMs+%26+RAG)  
+
+**Deployment & Automation**  
+![Deploy](https://progress-bar.dev/80/?title=Deploy+%26+Automation)  
 
 ---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mina-nabil-a4b3b3268">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mnabilsamir.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/the0king0mina">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/minanabil11111212">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <i>“Building AI systems that solve real problems, mentor future engineers, and push boundaries in LLMs, CV, and Multimodal AI.”</i>
