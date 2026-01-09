@@ -17,29 +17,41 @@ Kaggle Notebook **Grandmaster (#18)** with real-world freelance experience.
 
 ## 🛠️ Skills & Tools
 
-### 🔹 Core AI
-`Machine Learning (ML)` `Deep Learning (DL)` `Natural Language Processing (NLP)` `Computer Vision (CV)`  
-`Recommendation Systems` `Feature Engineering` `Data Analysis & Visualization`
+### 🔹 AI & Machine Learning
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=python&logoColor=white)
+![DL](https://img.shields.io/badge/Deep%20Learning-3776AB?style=for-the-badge&logo=tensorflow&logoColor=white)
+![CV](https://img.shields.io/badge/Computer%20Vision-6CC644?style=for-the-badge&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-F7DF1E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Recommendation](https://img.shields.io/badge/Recommendation%20Systems-4B0082?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔹 Deep Learning & CV
-`CNNs` `YOLO (v8, v12)` `Object Detection` `Transfer Learning` `GANs` `Hand Landmark Detection` `Medical Imaging AI` `Drone Vision Systems`
+![YOLO](https://img.shields.io/badge/YOLO-v8-orange?style=for-the-badge)
+![GANs](https://img.shields.io/badge/GANs-Purple?style=for-the-badge)
+![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-FF4500?style=for-the-badge)
+![Object Detection](https://img.shields.io/badge/Object%20Detection-00CED1?style=for-the-badge)
+![Medical AI](https://img.shields.io/badge/Medical%20AI-DC143C?style=for-the-badge)
 
 ### 🔹 NLP & LLMs
-`BERT` `mT5` `LangChain` `RAG Systems` `Prompt Engineering` `Document Q&A` `Multilingual AI (EN/AR)`
+![BERT](https://img.shields.io/badge/BERT-0052CC?style=for-the-badge)
+![mT5](https://img.shields.io/badge/mT5-FF6347?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1E90FF?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-32CD32?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF1493?style=for-the-badge)
 
 ### 🔹 Automation & AI Agents
-`n8n` `Workflow Orchestration` `AI Chatbots` `RAG Automation` `API Integration` `End-to-End AI Pipelines`
+![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
+![API Integration](https://img.shields.io/badge/API%20Integration-00BFFF?style=for-the-badge)
+![Workflow](https://img.shields.io/badge/Workflow%20Automation-FFD700?style=for-the-badge)
 
 ### 🔹 Tools & Frameworks
-`Python` `C++` `SQL` `TensorFlow` `PyTorch` `Scikit-learn` `OpenCV` `Hugging Face` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`  
-`Flask` `Streamlit` `Docker` `Google Colab` `Azure`  
-
----
-
-## 🚀 Quick Tags
-`#AI` `#MachineLearning` `#DeepLearning` `#ComputerVision` `#NLP` `#LLMs` `#RAG` `#MultimodalAI` `#OCR`  
-`#Automation` `#AIAgents` `#n8n` `#KaggleGrandmaster` `#MedicalAI` `#RecommendationSystems` `#GANs` `#PromptEngineering`  
-`#LangChain` `#YOLO` `#BERT` `#mT5` `#ProductionAI` `#Mentor` `#FreelanceAI`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FEE101?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
@@ -52,7 +64,7 @@ Kaggle Notebook **Grandmaster (#18)** with real-world freelance experience.
 ---
 
 ## ⭐ Featured Work (Pinned Repos)
-- **LLM / RAG Systems:** LangChain + OpenAI project pipelines  
+- **LLM / RAG Systems:** LangChain + OpenAI pipelines  
 - **Multimodal AI:** OCR + LLM medical & product analysis  
 - **Computer Vision:** YOLO-based real-world applications (medical/drone)  
 - **AI Automation:** n8n workflow & AI agents  
@@ -65,4 +77,6 @@ Kaggle Notebook **Grandmaster (#18)** with real-world freelance experience.
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/mina-nabil-a4b3b3268)
 [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/the0king0mina)
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>](https://www.kaggle.com/minanabil11111212)
+
+
 
