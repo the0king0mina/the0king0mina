@@ -8,21 +8,38 @@
 ---
 
 ## 🌟 About Me
-AI Engineer with a strong base in **ML, DL, NLP, CV**, building **LLMs, RAG, Multimodal AI systems**, and **AI automation pipelines**.  
-Mentor at **AI TroniX**, helping students create real-world AI projects.
+AI Engineer building **production-ready AI systems** with a strong foundation in **Machine Learning, Deep Learning, NLP, Computer Vision**, and **AI automation pipelines**.  
+Specialized in **LLMs, RAG, Multimodal AI systems**, and **AI Agents using n8n**.  
+Mentor at **AI TroniX**, guiding students in hands-on **AI project development**.  
+Kaggle Notebook **Grandmaster (#18)** with real-world freelance experience.
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** `Python` `C++` `SQL`  
-**ML/DL:** `TensorFlow` `PyTorch` `scikit-learn` `Hugging Face`  
-**CV/NLP:** `OpenCV` `OCR` `Transformers`  
-**Deployment:** `Streamlit` `Flask` `n8n` `Colab`
+## 🛠️ Skills & Tools
+
+### 🔹 Core AI
+`Machine Learning (ML)` `Deep Learning (DL)` `Natural Language Processing (NLP)` `Computer Vision (CV)`  
+`Recommendation Systems` `Feature Engineering` `Data Analysis & Visualization`
+
+### 🔹 Deep Learning & CV
+`CNNs` `YOLO (v8, v12)` `Object Detection` `Transfer Learning` `GANs` `Hand Landmark Detection` `Medical Imaging AI` `Drone Vision Systems`
+
+### 🔹 NLP & LLMs
+`BERT` `mT5` `LangChain` `RAG Systems` `Prompt Engineering` `Document Q&A` `Multilingual AI (EN/AR)`
+
+### 🔹 Automation & AI Agents
+`n8n` `Workflow Orchestration` `AI Chatbots` `RAG Automation` `API Integration` `End-to-End AI Pipelines`
+
+### 🔹 Tools & Frameworks
+`Python` `C++` `SQL` `TensorFlow` `PyTorch` `Scikit-learn` `OpenCV` `Hugging Face` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`  
+`Flask` `Streamlit` `Docker` `Google Colab` `Azure`  
 
 ---
 
 ## 🚀 Quick Tags
-`#AI` `#MachineLearning` `#DeepLearning` `#LLM` `#RAG` `#MultimodalAI` `#KaggleGrandmaster` `#Mentor` `#Automation`
+`#AI` `#MachineLearning` `#DeepLearning` `#ComputerVision` `#NLP` `#LLMs` `#RAG` `#MultimodalAI` `#OCR`  
+`#Automation` `#AIAgents` `#n8n` `#KaggleGrandmaster` `#MedicalAI` `#RecommendationSystems` `#GANs` `#PromptEngineering`  
+`#LangChain` `#YOLO` `#BERT` `#mT5` `#ProductionAI` `#Mentor` `#FreelanceAI`
 
 ---
 
@@ -31,6 +48,15 @@ Mentor at **AI TroniX**, helping students create real-world AI projects.
   <img src="https://github-readme-stats.vercel.app/api?username=the0king0mina&show_icons=true&theme=dark&hide_border=true" height="140"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the0king0mina&layout=compact&theme=dark&hide_border=true" height="140"/>
 </p>
+
+---
+
+## ⭐ Featured Work (Pinned Repos)
+- **LLM / RAG Systems:** LangChain + OpenAI project pipelines  
+- **Multimodal AI:** OCR + LLM medical & product analysis  
+- **Computer Vision:** YOLO-based real-world applications (medical/drone)  
+- **AI Automation:** n8n workflow & AI agents  
+- **Client Projects:** Fingerprint liveness, recommendation systems, real-world AI delivery
 
 ---
 
