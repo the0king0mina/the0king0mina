@@ -14,7 +14,7 @@
   <a href="https://www.kaggle.com/minanabil11111212">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/mina._._nabil/">
+  <a href="https://www.instagram.com/eng.minanabil/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
