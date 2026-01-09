@@ -32,12 +32,9 @@ Kaggle Grandmaster (#18) mentoring students to create **AI projects from scratch
 </p>
 
 ---
-
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=the0king0mina&show_icons=true&theme=radical&hide_border=true" height="120"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the0king0mina&layout=compact&theme=radical&hide_border=true" height="120"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the0king0mina&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the0king0mina&layout=compact&theme=radical)
 
 ---
 
